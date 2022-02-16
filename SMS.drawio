@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-02-16T16:49:12.539Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="0raCf5NZH7kZZ9qtOp4l" version="16.5.6" type="github">
+<mxfile host="app.diagrams.net" modified="2022-02-16T17:46:55.448Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="V1aIOzvRNrkEiur8AIzf" version="16.5.6" type="github">
   <diagram id="WXnUgs4JJ4X1YGe4O1uY" name="Page-1">
     <mxGraphModel dx="3424" dy="1392" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -103,7 +103,7 @@
         <mxCell id="dzhNXSrbuq9fd1vKyZxA-5" value="" style="sketch=0;aspect=fixed;html=1;points=[];align=center;image;fontSize=12;image=img/lib/mscae/Cache_Redis_Product.svg;" vertex="1" parent="dzhNXSrbuq9fd1vKyZxA-32">
           <mxGeometry x="2.3799999999999955" width="95.24" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="dzhNXSrbuq9fd1vKyZxA-31" value="token" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fontSize=18;size=0;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="dzhNXSrbuq9fd1vKyZxA-32">
+        <mxCell id="dzhNXSrbuq9fd1vKyZxA-31" value="&lt;font style=&quot;font-size: 20px&quot;&gt;token&lt;/font&gt;&lt;br&gt;&lt;font style=&quot;font-size: 14px&quot;&gt;TTL 15 min&lt;/font&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fontSize=18;size=0;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="dzhNXSrbuq9fd1vKyZxA-32">
           <mxGeometry y="90" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="dzhNXSrbuq9fd1vKyZxA-33" value="" style="endArrow=classic;html=1;rounded=0;fontSize=18;exitX=0.275;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="dzhNXSrbuq9fd1vKyZxA-11">
